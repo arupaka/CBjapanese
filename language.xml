@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cbinstall version="1.0" type="plugin" group="language" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:../../../../../validation/ahawow.xsd">
-	<name>en-GB</name>
-	<author>CB Team</author>
+	<name>ja-JP</name>
+	<author>Trictrac</author>
 	<creationDate>2014-12-08</creationDate>
 	<copyright>(C) 2004-2014 www.joomlapolis.com / Lightning MultiCom SA - and its licensors, all rights reserved</copyright>
 	<license>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU/GPL version 2</license>
-	<authorEmail>cbteam@joomlapolis.com</authorEmail>
+	<authorEmail>mio.shibuya@trictrac.co.jp</authorEmail>
 	<authorUrl>http://www.joomlapolis.com</authorUrl>
 	<version>2.0.0</version>
 	<release>2.0.3.1.0.0</release>
-	<description>Provides the English (United Kingdom) language for Community Builder and its plugins.&lt;br /&gt;For updates and translation projects please visit our &lt;a href="http://www.joomlapolis.com/languages" target=""_blank"&gt;Joomlapolis Languages&lt;/a&gt; page.</description>
+	<description> Community Builder日本語化ファイル</description>
 	<files>
 		<filename plugin="language">language.php</filename>
 		<filename>index.html</filename>
